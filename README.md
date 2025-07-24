@@ -11,6 +11,13 @@ This small learning project demonstrates how to calculate frequency and relative
 - Calculating relative frequencies
 - Adding a **Grand Total** row
 
+| Status           | Frequency | Relative Frequency, % |
+|------------------|-----------|----------------------|
+| Not Placed       | 42        | 44.21                |
+| Placed           | 53        | 55.79                |
+| **GRAND TOTAL** | 95        | 100.00               |
+
+
 ## Files Included
 - [Categorical_Distributions_GitHub.xlsx](Categorical_Distributions_GitHub.xlsx) – Excel file with formulas and pivot table
 - [Categorical Distributions SQL.sql](Categorical%20Distributions%20SQL.sql) – SQL script
