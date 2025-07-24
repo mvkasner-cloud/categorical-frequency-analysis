@@ -12,6 +12,6 @@ This small learning project demonstrates how to calculate frequency and relative
 - Adding a **Grand Total** row
 
 ## Files Included
-- `Categorical_Distributions_GitHub.xlsx` – Excel file with formulas and pivot table
-- `Categorical Distributions SQL.sql` – SQL script
-- `DescriptiveStatistics_JUPYTER.ipynb` – Python notebook (pandas + Jupyter)
+- [Categorical_Distributions_GitHub.xlsx](Categorical_Distributions_GitHub.xlsx) – Excel file with formulas and pivot table
+- [Categorical Distributions SQL.sql](Categorical%20Distributions%20SQL.sql) – SQL script
+- [DescriptiveStatistics_JUPYTER.ipynb](DescriptiveStatistics_JUPYTER.ipynb) – Python notebook (pandas + Jupyter)
