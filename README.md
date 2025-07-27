@@ -6,6 +6,15 @@ This small learning project demonstrates how to calculate frequency and relative
 - **SQL** (SQL Server Management Studio)
 - **Python** (pandas in VS Code using Jupyter Notebook)
 
+  ---
+
+## **Data Source & Acknowledgment**
+This project is inspired by the course **"Microsoft Excel: Essential Statistics for Data Analysis"** by **Maven Analytics**.
+While the initial data structure and analysis questions are based on course materials, all SQL and Python code, additional transformations, visualizations, and analytical steps were independently developed.
+The project demonstrates how the same dataset can be analyzed using more advanced tools beyond Excel.
+
+---
+
 ## The analysis includes:
 - Counting the number of occurrences for each category
 - Calculating relative frequencies
