@@ -1,4 +1,4 @@
-# Categorical Frequency Analysis
+# Categorical Frequency Analysis (Excel, SQL, Python)
 
 This small learning project demonstrates how to calculate frequency and relative frequency of categorical data using three tools:
 
